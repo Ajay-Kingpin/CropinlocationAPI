@@ -7,7 +7,7 @@ import io.restassured.path.json.JsonPath;
 
 public class SumValidation {
 	
-	// public void sumofcourses()
+	// public void sumofcourses() check from updating GIT
 	public static void main(String[] args){ 
 	{
 		int sum = 0;
